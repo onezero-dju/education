@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "8d65e9b57f4edae8",
+    "id": "c4ae4acb5ac9ea50",
     "type": "split",
     "children": [
       {
-        "id": "02096fcb80f6b3e8",
+        "id": "236e924c65b58e89",
         "type": "tabs",
         "children": [
           {
-            "id": "ddefe0430409f312",
+            "id": "f9190f69bb506cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git,Github 교육자료.md",
+                "file": "Hello Branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git,Github 교육자료"
+              "title": "Hello Branch"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8007196a306074f2",
+    "id": "bc0ecec49c00edf6",
     "type": "split",
     "children": [
       {
-        "id": "350df733b8adafec",
+        "id": "047b46e6e57b1cd8",
         "type": "tabs",
         "children": [
           {
-            "id": "2f68c2d3b68dc6be",
+            "id": "d41dbccad7fe2922",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "4cf70a974d57a35d",
+            "id": "9b13cddadb1d7097",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "7b62365b4acb2581",
+            "id": "ef40bf153017da5a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7e1b23d0caaf7222",
+    "id": "75b9d9e6eb188667",
     "type": "split",
     "children": [
       {
-        "id": "9d464d5cf989c6ed",
+        "id": "d59daa96025a3905",
         "type": "tabs",
         "children": [
           {
-            "id": "e594676d1e8e5ce8",
+            "id": "7583a4009d7231e1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git,Github 교육자료.md",
+                "file": "Hello Branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Git,Github 교육자료 의 백링크"
+              "title": "Hello Branch 의 백링크"
             }
           },
           {
-            "id": "e4b895492999bfc1",
+            "id": "ed2bd5c578b2eada",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git,Github 교육자료.md",
+                "file": "Hello Branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Git,Github 교육자료 의 나가는 링크"
+              "title": "Hello Branch 의 나가는 링크"
             }
           },
           {
-            "id": "20b096be837a3a22",
+            "id": "403144231bbda793",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,18 +137,18 @@
             }
           },
           {
-            "id": "adeb715357a1693b",
+            "id": "f6e54b2134d380f0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git,Github 교육자료.md",
+                "file": "Hello Branch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git,Github 교육자료 의 개요"
+              "title": "Hello Branch 의 개요"
             }
           }
         ]
@@ -169,12 +168,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ddefe0430409f312",
-  "lastOpenFiles": [
-    "Pasted image 20250311125824.png",
-    "image.png",
-    "image (1).png",
-    "피처 플래그.md",
-    "워크플로우.md"
-  ]
+  "active": "f9190f69bb506cc1",
+  "lastOpenFiles": []
 }
