@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git,Github 교육자료.md",
+                "file": "CI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git,Github 교육자료"
+              "title": "CI"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e1b23d0caaf7222",
@@ -171,10 +170,14 @@
   },
   "active": "ddefe0430409f312",
   "lastOpenFiles": [
-    "Pasted image 20250311125824.png",
-    "image.png",
-    "image (1).png",
     "피처 플래그.md",
-    "워크플로우.md"
+    "워크플로우.md",
+    "Git,Github 교육자료.md",
+    "CI.md",
+    "GitLab.md",
+    "Hello Branch.md",
+    "Pasted image 20250311125824.png",
+    "image (1).png",
+    "image.png"
   ]
 }
