@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0b24648cb3e24598",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e15bb13ee5db840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561d4a90e5da8b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git 교육자료/Git,Github 교육자료.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git,Github 교육자료"
+            }
+          },
+          {
+            "id": "29218e57579b9a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5addefa1c1a3b905",
+    "type": "split",
+    "children": [
+      {
+        "id": "3249df6ac92a9037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50cad32b4aeb1996",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "44be6c3a6ed1f93a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "715c13864984feda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de07a3ea44f402c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c822691d890ee4f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2affdfb991d7b6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "test 의 백링크"
+            }
+          },
+          {
+            "id": "6745c88fad9813d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git 교육자료/Git,Github 교육자료.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Git,Github 교육자료 의 나가는 링크"
+            }
+          },
+          {
+            "id": "a275791153f4e3e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "c8a6a1f64dda7a25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git 교육자료/Git,Github 교육자료.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git,Github 교육자료 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "29218e57579b9a72",
+  "lastOpenFiles": [
+    "git 교육자료/Git,Github 교육자료.md",
+    "test.md",
+    "git 교육자료/이미지/Pasted image 20250311125824.png",
+    "git 교육자료/이미지",
+    "git 교육자료/이미지/image.png",
+    "git 교육자료/용어정리/GitLab.md",
+    "git 교육자료/용어정리/CI.md",
+    "git 교육자료/용어정리",
+    "git 교육자료/용어정리/피처 플래그.md",
+    "git 교육자료/용어정리/워크플로우.md"
+  ]
+}
